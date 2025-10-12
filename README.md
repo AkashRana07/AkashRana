@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AkashRana07
-- 👀 I’m interested in WebDev.
-- 🌱 I’m currently learning C/c++
+- 👀 Interested in WebDev.
 - 📫 reach me here
 
 <!---
