@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AkashRana07
-- 👀 Interested in WebDev.
-- 📫 reach me here
+- 👋 Hi, I’m Akash Kumar.
+- 👀 Interested in WebDev, AIML, DATA SCIENCE.
+- 📫 reach me here > arnavarav566@gmail.com
 
 <!---
 AkashRana07/AkashRana07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
